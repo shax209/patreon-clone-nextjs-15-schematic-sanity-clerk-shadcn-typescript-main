@@ -2,20 +2,7 @@
 
 A modern, membership platform built with Next.js 15, Sanity CMS, and Clerk authentication. Features a creator profile, subscriber management, premium content access, and integrated payment processing.
 
-## Things to do before you start
 
-#### Support the Project
-
-When you sign up for services using our affiliate links, you help support the continued development of project's like these at no extra cost to you:
-
-- 1️⃣ Get Started with Sanity 👉 https://www.sanity.io/sonny?utm_source=youtube&utm_medium=video&utm_content=patreon
-
-- 2️⃣ Get Started with Clerk 👉 https://go.clerk.com/buyiIeO
-
-- 3️⃣ Get Started with Schematic 👉 https://schematichq.com/papareact?utm_source=youtube&utm_campaign=sonny_20250507
-
-These partnerships allow us to maintain this project while keeping it free and open source.
-Thank you for your support!
 
 ## Features
 
@@ -103,36 +90,3 @@ pnpm dev
 - Tailwind CSS
 - Shadcn
 
-## Join the World's Best Developer Course & Community Zero to Full Stack Hero! 🚀
-
-### Want to Master Modern Web Development?
-
-This project was built as part of the [Zero to Full Stack Hero](https://www.papareact.com/course) course. Join thousands of developers and learn how to build projects like this and much more!
-
-#### What You'll Learn:
-
-- 📚 Comprehensive Full Stack Development Training
-- 🎯 50+ Real-World Projects
-- 🤝 Access to the PAPAFAM Developer Community
-- 🎓 Weekly Live Coaching Calls
-- 🤖 AI & Modern Tech Stack Mastery
-- 💼 Career Guidance & Interview Prep
-
-#### Course Features:
-
-- ⭐ Lifetime Access to All Content
-- 🎯 Project-Based Learning
-- 💬 Private Discord Community
-- 🔄 Regular Content Updates
-- 👥 Peer Learning & Networking
-- 📈 Personal Growth Tracking
-
-[Join Zero to Full Stack Hero Today!](https://www.papareact.com/course)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
----
-
-Built with ❤️ using Next.js, Sanity, Clerk, and Stripe
